@@ -103,7 +103,7 @@ footer{
     }
 @media  screen and (min-width:535px) and (max-width: 824px) {
     .inicio{
-        width: 300px;
+        width: 230px;
         position: relative;
         right: 60px;
         margin-top: 25px;
